@@ -13,6 +13,8 @@
 #ifndef MARKERCONTROLLERCOMPONENT_HPP_
 #define MARKERCONTROLLERCOMPONENT_HPP_
 
+#include <list>
+
 #include <iterator>
 #include <concepts>
 #include "Game/Plot.hpp"
